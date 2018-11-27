@@ -1,2 +1,2 @@
 # legacy-code-workshop
-"Legacy Code" workshop content from DevTernity 2018
+"Legacy Code" workshop setup for DevTernity 2018
